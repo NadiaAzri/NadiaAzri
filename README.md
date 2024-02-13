@@ -2,7 +2,7 @@ Hey 👋, I am a Ph.D. candidate specializing in Artificial Intelligence and Ima
 
 ## Connect with Me
 
-- Website: [Your Website](https://www.mywork.nadiaazri.tech/)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/nadia-azri-b37551199/)
+- [In my Website](https://www.mywork.nadiaazri.tech/)
+- [In my LinkedIn profile](https://www.linkedin.com/in/nadia-azri-b37551199/)
 
 
