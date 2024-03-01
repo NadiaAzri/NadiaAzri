@@ -4,5 +4,6 @@ Hey 👋, I am a Ph.D. candidate specializing in Artificial Intelligence and Ima
 
 - [In my Website](https://www.mywork.nadiaazri.tech/)
 - [In my LinkedIn profile](https://www.linkedin.com/in/nadia-azri-b37551199/)
+- [In CV](https://cvdesignr.com/p/65c800104a927)
 
 
