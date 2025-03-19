@@ -2,7 +2,6 @@ Hey 👋, I am a Master's student in Data Analytics at Touro University, passion
   
 ## Connect with Me
 
-- [In my Website](https://www.mywork.nadiaazri.tech/)
 - [In my LinkedIn profile](https://www.linkedin.com/in/nadia-azri-bb2688354/)
 - [Or see my CV](https://resume.io/r/9vn4uiwZS)
 
