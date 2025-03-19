@@ -1,7 +1,4 @@
-Hey 👋, I am a Master’s student in Data Analytics at Touro University, passionate about transforming data into meaningful insights. My academic journey has fueled my interest in using data-driven approaches to solve real-world challenges, particularly in healthcare. I have worked on breast cancer diagnosis projects, analyzing large datasets to improve decision-making and accuracy.
-
-With a background in computer science, I have developed strong skills in Python, SQL and data visualization. I enjoy exploring patterns in data and translating them into valuable insights.
-
+Hey 👋, I am a Master's student in Data Analytics at Touro University, passionate about transforming data into meaningful insights. My academic journey has fueled my interest in using data-driven approaches to solve real-world challenges, particularly in healthcare. With a background in computer science, I have developed strong skills in Python, SQL, and data visualization. I enjoy exploring patterns in data and translating them into valuable insights. I am also experienced in conducting research on AI applications in cancer diagnosis, leading to impactful results.
   
 ## Connect with Me
 
